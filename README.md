@@ -10,3 +10,6 @@
 ```
 ## 参考文档
 https://www.tslang.cn/docs/home.html
+
+# 入门文档（强力推荐）
+https://ts.xcatliu.com/
